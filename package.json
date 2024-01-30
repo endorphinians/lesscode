@@ -6,6 +6,8 @@
 		"start": "node index.js 8000"
 	},
 	"dependencies": {
+		"cheerio": "^1.0.0-rc.12",
+		"total.js": "^3.4.13",
 		"total5": "beta"
 	},
 	"author": "Total.js",
